@@ -1,5 +1,11 @@
 # Observations
 
+## Our plans
+
+See [our plans for observing the asteroid](./observation_plans.md)
+
+## Other observers
+
 The sky is being monitored by a number of automated observatories throught the world (?reference?). These observatories 
 regularly detect Minor planets such as [7779 Susanring](https://minorplanetcenter.net/db_search/show_object?object_id=7779)
 and report the observations are sent to the [IAU Minor Planet centre](https://minorplanetcenter.net/) which catalogues the
