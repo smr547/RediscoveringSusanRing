@@ -16,4 +16,7 @@ This project aims to photograph minor planet 7779 Susanring before the 30th anni
 1. Analysis of results
 1. Publish a report
 
+## Literature and historical study 
+
+See [bibliography](./docs/bibliography.md)
 
