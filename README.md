@@ -22,7 +22,7 @@ See [bibliography](./docs/bibliography.md)
 
 ## Prediction the position
 
-See [preditions](./docs/predictions.md)
+See [predictions](./docs/predictions.md)
 
 ## Rediscovery imaging
 
