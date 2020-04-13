@@ -27,7 +27,7 @@ See [predictions](./docs/predictions.md)
 ## Rediscovery imaging
 
 Use the [iTelescope facility](https://www.itelescope.net/) to take images of the asteroid. Perhaps produce a time sequence
-or movie showing the movement of the asteroid through the sky.
+or movie showing the movement of the asteroid through the sky. See [our plans for observing the asteroid](./observation_plans.md)
 
 ## Analysis of results
 
