@@ -1,5 +1,5 @@
 # RediscoveringSusanRing
-Project to rediscover asteroid Susanring 7779
+Project to rediscover asteroid [Susanring 7779](https://minorplanetcenter.net/db_search/show_object?object_id=7779)
 
 ## About Susanring 7779
 Asteroid 7779 was discovered by J. B. (Jack) Child at Mt Palomar observatory in on 19 May 1993. Jack subsequently
