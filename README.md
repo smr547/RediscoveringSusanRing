@@ -20,3 +20,19 @@ This project aims to photograph minor planet 7779 Susanring before the 30th anni
 
 See [bibliography](./docs/bibliography.md)
 
+## Prediction the position
+
+See [preditions](./docs/predictions.md)
+
+## Rediscovery imaging
+
+Use the [iTelescope facility](https://www.itelescope.net/) to take images of the asteroid. Perhaps produce a time sequence
+or movie showing the movement of the asteroid through the sky.
+
+## Analysis of results
+
+Stay tuned
+
+## Publish the results
+
+Produce a Wikipedia page. Perhaps publish in a propular astronomy magazine.
