@@ -22,6 +22,7 @@ Requirements:
 It would be nice to predict what the star field might look like in the camera -- is there software available for this or
 should we roll our own.
 
+### SkyView
 One appraoch is to use the [NASA SkyView Virtual Telescope](https://skyview.gsfc.nasa.gov/current/cgi/titlepage.pl) web page
 and enter the following coordinates:
 
@@ -30,6 +31,9 @@ and enter the following coordinates:
 The centre of the resulting image represents roughly the
 location of the closest approach with the asteroid on Nov 20, 2020
 
+### Stellarium
+
+Try this: https://stellarium-web.org/  -- Stellarium uses the [DSS](https://en.wikipedia.org/wiki/Digitized_Sky_Survey) and is pretty good -- we just have to learn how to drive it.
 ## Other asteriods in the area
 
 We might encounter other asteroids in the area while making our images. Can we develop software to remove the background 
