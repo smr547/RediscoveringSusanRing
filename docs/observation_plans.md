@@ -20,7 +20,15 @@ Requirements:
 ## Field prediction
 
 It would be nice to predict what the star field might look like in the camera -- is there software available for this or
-should we roll our own
+should we roll our own.
+
+One appraoch is to use the [NASA SkyView Virtual Telescope](https://skyview.gsfc.nasa.gov/current/cgi/titlepage.pl) web page
+and enter the following coordinates:
+
+``03 10 08.0, 25 25 57.0``
+
+The centre of the resulting image represents roughly the
+location of the closest approach with the asteroid on Nov 20, 2020
 
 ## Other asteriods in the area
 
